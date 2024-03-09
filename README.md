@@ -7,7 +7,7 @@ _Introduction_
 ZYBERG is an autonomous mobile robot developed using ROS2 Humble on Ubuntu 22.04. The project integrates the power of ROS2 with the capabilities of the Raspberry Pi 4 (8 GB), RPLidar A1, Arduino Nano, Cytron MDD10A Motor Driver, and Cytron 12V Encoder Motor. The robot is equipped with ROS2 packages such as nav2 for navigation and SLAM for simultaneous localization and mapping.
 Hardware
 
-The ZYBERG robot incorporates the following hardware components:
+_Hardware components:_
 
 * Raspberry Pi 4 (8 GB)
 * RPLidar A1
@@ -19,9 +19,9 @@ Software Components
 
 The software stack of ZYBERG includes various ROS2 packages, ensuring a robust and intelligent autonomous system:
 
-nav2: ROS2 navigation stack for robot navigation.
+* nav2: ROS2 navigation stack for robot navigation.
 
-slam_toolbox: Toolbox for developing SLAM-based applications in ROS2.
+* slam_toolbox: Toolbox for developing SLAM-based applications in ROS2.
 
 Additionally, external packages used in the project are:
 
