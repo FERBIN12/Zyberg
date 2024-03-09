@@ -9,11 +9,11 @@ Hardware
 
 The ZYBERG robot incorporates the following hardware components:
 
-"*" Raspberry Pi 4 (8 GB)
-"*" RPLidar A1
-"*" Arduino Nano
-"*" Cytron MDD10A Motor Driver
-"*" Cytron 12V Encoder Motor
+* Raspberry Pi 4 (8 GB)
+* RPLidar A1
+* Arduino Nano
+* Cytron MDD10A Motor Driver
+* Cytron 12V Encoder Motor
 
 Software Components
 
