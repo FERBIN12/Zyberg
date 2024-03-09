@@ -7,6 +7,16 @@ _Introduction_
 ZYBERG is an autonomous mobile robot developed using ROS2 Humble on Ubuntu 22.04. The project integrates the power of ROS2 with the capabilities of the Raspberry Pi 4 (8 GB), RPLidar A1, Arduino Nano, Cytron MDD10A Motor Driver, and Cytron 12V Encoder Motor. The robot is equipped with ROS2 packages such as nav2 for navigation and SLAM for simultaneous localization and mapping.
 Hardware
 
+Operating system : UBUNTU 22.04 LTS
+ROS2 DISTRO : ROS2 HUMBLE
+
+Required packages :
+
+    sudo apt install ros-humble-xacro
+    sudo apt install python3-colcon-common-extensions
+    sudo apt install ros-humble-joint-state-publisher-gui
+    sudo apt install ros-humble-gazebo-ros-pkgs
+
 _Hardware components:_
 
 * Raspberry Pi 4 (8 GB)
